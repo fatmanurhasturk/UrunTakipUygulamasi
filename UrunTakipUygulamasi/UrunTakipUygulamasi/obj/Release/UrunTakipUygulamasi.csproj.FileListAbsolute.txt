@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\UrunTakipUygulamasi\UrunTakipUygulamasi\bin\Release\UrunTakipUygulamasi.exe.config
+C:\Users\Acer\source\repos\UrunTakipUygulamasi\UrunTakipUygulamasi\bin\Release\UrunTakipUygulamasi.exe
+C:\Users\Acer\source\repos\UrunTakipUygulamasi\UrunTakipUygulamasi\bin\Release\UrunTakipUygulamasi.pdb
+C:\Users\Acer\source\repos\UrunTakipUygulamasi\UrunTakipUygulamasi\obj\Release\UrunTakipUygulamasi.FormAnasayfa.resources
+C:\Users\Acer\source\repos\UrunTakipUygulamasi\UrunTakipUygulamasi\obj\Release\UrunTakipUygulamasi.FormUrunEkle.resources
+C:\Users\Acer\source\repos\UrunTakipUygulamasi\UrunTakipUygulamasi\obj\Release\UrunTakipUygulamasi.FormUrunListele.resources
+C:\Users\Acer\source\repos\UrunTakipUygulamasi\UrunTakipUygulamasi\obj\Release\UrunTakipUygulamasi.Properties.Resources.resources
+C:\Users\Acer\source\repos\UrunTakipUygulamasi\UrunTakipUygulamasi\obj\Release\UrunTakipUygulamasi.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\UrunTakipUygulamasi\UrunTakipUygulamasi\obj\Release\UrunTakipUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\UrunTakipUygulamasi\UrunTakipUygulamasi\obj\Release\UrunTakipUygulamasi.exe
+C:\Users\Acer\source\repos\UrunTakipUygulamasi\UrunTakipUygulamasi\obj\Release\UrunTakipUygulamasi.pdb
